@@ -1,7 +1,12 @@
 # Description
  Analysis and synthesis tool for sequential circuits made with Python.  
+<br>
 Final product should look like this:
+<br>
+<br>
 ![Photo Link](http://i.epvpimg.com/48Nnbab.png)
+<br>
+<br>
 ![Photo Link](http://i.epvpimg.com/D6Q4eab.png)
 
 # Modules required
