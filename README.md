@@ -3,9 +3,11 @@
 <br>
 Final product should look like this:
 <br>
+Analysis:
 <br>
 ![Photo Link](http://i.epvpimg.com/48Nnbab.png)
 <br>
+Synthesis:
 <br>
 ![Photo Link](http://i.epvpimg.com/D6Q4eab.png)
 
